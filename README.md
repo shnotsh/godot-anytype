@@ -1,6 +1,11 @@
+<p align="center">
+  <img src="repo_img.png" width="660" >
+</p>
+
 # Anytype Sync for Godot
 
 An editor addon and runtime GDScript client for Anytype's local HTTP API. It has no third-party dependencies and works with Godot 4.
+
 
 ## Install
 
