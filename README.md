@@ -4,7 +4,7 @@
 
 # Anytype Sync for Godot
 
-An editor addon and runtime GDScript client for Anytype's local HTTP API. It has no third-party dependencies and works with Godot 4.
+An editor addon and runtime GDScript client for Anytype's local HTTP API with no third-party dependencies.
 
 
 ## Install
