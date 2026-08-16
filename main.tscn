@@ -1,9 +1,6 @@
 [gd_scene format=3 uid="uid://d16rvamxonhph"]
 
-[ext_resource type="Script" uid="uid://bmoe2wqo2lpd0" path="res://addons/anytype_sync/anytype_client.gd" id="1_ig7tw"]
+[ext_resource type="Script" uid="uid://dn0cws04d512n" path="res://main.gd" id="1_ig7tw"]
 
 [node name="Main" type="Node" unique_id=64850841]
-
-[node name="AnytypeClient" type="Node" parent="." unique_id=174474592]
 script = ExtResource("1_ig7tw")
-metadata/_custom_type_script = "uid://bmoe2wqo2lpd0"
